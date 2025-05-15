@@ -5,4 +5,5 @@
 npm install react
 npm install react-router-dom
 npm install three
+npm install @react-three/fiber @react-three/drei
 ```
