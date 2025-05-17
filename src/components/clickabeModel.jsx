@@ -1,0 +1,1 @@
+//develop clickable model using found model with separated groups
